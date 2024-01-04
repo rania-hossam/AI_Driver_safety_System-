@@ -1,18 +1,17 @@
-# AI Driver Safety System
-Overview
-The AI Driver Safety System is an innovative project that leverages advanced computer vision and machine learning techniques on the Raspberry Pi 4 platform to enhance road safety. This system now integrates with hardware, utilizing multiple VLX Time-of-Flight (ToF) sensors for spatial awareness, and a dedicated Raspberry Pi camera for real-time visual analysis.
+# AI Driver Safety System 🚗💡
 
-Features
-Multi-Point Distance Sensing: Employs ToF sensors to measure proximity to obstacles, alerting drivers to avoid collisions.
-Enhanced Visual Detection: Utilizes a Raspberry Pi camera to implement head, body, and line detection modules, alongside stop sign recognition to alert drivers of road hazards.
-Posture Monitoring: Features a posture_steeringwheel_lookingstraight module to ensure drivers maintain an optimal position, promoting attentive driving.
-Updates
-Hardware Implementation: Fully compatible with Raspberry Pi 4, enabling portable and efficient deployment in vehicles.
-Real-Time Alerts: Immediate feedback system to warn against seatbelt neglect, and potential collision threats.
-Contributions
-Contributors are welcome to explore the restructured project, now with organized modules for facial features, body estimation, traffic signs, object tracking, posture analysis, and seatbelt usage. We value collaborative enhancement and invite developers to join this open-source initiative to make driving safer.
+Welcome to the AI Driver Safety System, an open-source initiative harnessing the power of computer vision and machine learning to revolutionize road safety.
 
-Get Involved
-Join us in pushing the boundaries of driver safety technology. Your expertise can help in further refining this life-saving system.
+# Key Features
+- Vigilant Monitoring: Utilizes machine learning for head and body detection to ensure driver attentiveness.
+- Road Awareness: Implements Hough transform for precise line detection and robust stop sign recognition.
+- Posture Correction: Features an advanced posture analysis module to encourage optimal driving posture.
+- Seatbelt Adherence: A dedicated module focused on promoting seatbelt use with timely alerts.
+- Proximity Sensing: Integrates ToF sensors to alert drivers about the proximity of objects.
+# Hardware Setup
+- Raspberry Pi 4: The brain of our system, providing a powerful yet compact computing platform.
+- VLX ToF Sensors: Our eyes for distance measuring, ensuring a safer driving environment.
+- Pi Camera: Captures real-time footage for our detection algorithms to analyze.
 
-For a detailed explanation of the modules and setup, refer to the documentation within the project repository.
+# Get Involved
+Check out our installation guide and follow the simple steps to set up the system on your Raspberry Pi 4.
