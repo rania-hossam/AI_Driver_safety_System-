@@ -23,6 +23,7 @@ Welcome to the AI Driver Safety System, an open-source initiative harnessing the
   Captures real-time footage for our detection algorithms to analyze.
 # Prototype Demonstration 
 we made a simple 3d desgin for a sesnor head with 5 vlx sensors that measures and looks for obstacles from different angels here is how it looks :
+
 ![photo_2024-01-04_18-33-24](https://github.com/rania-hossam/AI_Driver_safety_System-/assets/103861444/7c1c625d-c6b8-4831-a602-a6e176b86516)
 ![photo_2024-01-04_18-33-29](https://github.com/rania-hossam/AI_Driver_safety_System-/assets/103861444/d2f502a6-f3ef-4430-8d75-8c820d453236)
 
