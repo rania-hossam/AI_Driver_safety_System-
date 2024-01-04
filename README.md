@@ -13,7 +13,9 @@ Welcome to the AI Driver Safety System, an open-source initiative harnessing the
 - ### Seatbelt Adherence:
   A dedicated module focused on promoting seatbelt use with timely alerts.
 - ### Proximity Sensing:
-  Integrates ToF sensors to alert drivers about the proximity of objects.
+  Integrates ToF sensors to alert drivers about the proximity of objects , the sensors will be installed in multiple points in the car
+  allowing them to almost sense for any object coming close to the car , and alerting the driver in various ways allowing him to do stuff like parking more effectively ,
+  also using it's readings in various calculations enhancing the overall driving safty .
 # Hardware Setup
 - ### Raspberry Pi 4:
   The brain of our system, providing a powerful yet compact computing platform.
@@ -24,8 +26,11 @@ Welcome to the AI Driver Safety System, an open-source initiative harnessing the
 # Prototype Demonstration 
 we made a simple 3d desgin for a sesnor head with 5 vlx sensors that measures and looks for obstacles from different angels here is how it looks :
 
-![photo_2024-01-04_18-33-24](https://github.com/rania-hossam/AI_Driver_safety_System-/assets/103861444/7c1c625d-c6b8-4831-a602-a6e176b86516)
-![photo_2024-01-04_18-33-29](https://github.com/rania-hossam/AI_Driver_safety_System-/assets/103861444/d2f502a6-f3ef-4430-8d75-8c820d453236)
+![photo_2024-01-04_18-36-51](https://github.com/rania-hossam/AI_Driver_safety_System-/assets/103861444/a2579d22-bce6-489a-8f3b-249e8293ddd6)
+
+![photo_2024-01-04_18-36-48](https://github.com/rania-hossam/AI_Driver_safety_System-/assets/103861444/364560ce-a04d-4409-a4fe-1b30837a6021)
+
+
 
 
 # Get Involved
