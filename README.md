@@ -24,7 +24,9 @@ Welcome to the AI Driver Safety System, an open-source initiative harnessing the
 - ### Pi Camera:
   Captures real-time footage for our detection algorithms to analyze.
 # Prototype Demonstration 
-we made a simple 3d desgin for a sesnor head with 5 vlx sensors that measures and looks for obstacles from different angels here is how it looks :
+we made a simple 3d desgin for a sesnor head with 5 vlx sensors that measures and looks for obstacles from different angels, 
+this prototype can be installed on a mini car showing how these sensors can work with the models , this can be enhanced even more later for more precise measurements of various other factors ,
+here is how or 3d printed sensor head looks :
 
 ![photo_2024-01-04_18-36-51](https://github.com/rania-hossam/AI_Driver_safety_System-/assets/103861444/a2579d22-bce6-489a-8f3b-249e8293ddd6)
 
