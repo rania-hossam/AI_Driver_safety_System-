@@ -1,8 +1,18 @@
-# AI_Driver_safety_System-
-uses computer vision and machine learning techniques to improve driver safety.
+# AI Driver Safety System
+Overview
+The AI Driver Safety System is an innovative project that leverages advanced computer vision and machine learning techniques on the Raspberry Pi 4 platform to enhance road safety. This system now integrates with hardware, utilizing multiple VLX Time-of-Flight (ToF) sensors for spatial awareness, and a dedicated Raspberry Pi camera for real-time visual analysis.
 
-The project includes several modules, including head and body detection, lines detection using Hough transform, and stop sign detection, all of which can help alert the driver to potential hazards on the road. One of the most impressive modules is the posture_steeringwheel_lookingstraight, which can detect when the driver is not sitting in an optimal position and provide feedback to encourage better posture.
+Features
+Multi-Point Distance Sensing: Employs ToF sensors to measure proximity to obstacles, alerting drivers to avoid collisions.
+Enhanced Visual Detection: Utilizes a Raspberry Pi camera to implement head, body, and line detection modules, alongside stop sign recognition to alert drivers of road hazards.
+Posture Monitoring: Features a posture_steeringwheel_lookingstraight module to ensure drivers maintain an optimal position, promoting attentive driving.
+Updates
+Hardware Implementation: Fully compatible with Raspberry Pi 4, enabling portable and efficient deployment in vehicles.
+Real-Time Alerts: Immediate feedback system to warn against seatbelt neglect, and potential collision threats.
+Contributions
+Contributors are welcome to explore the restructured project, now with organized modules for facial features, body estimation, traffic signs, object tracking, posture analysis, and seatbelt usage. We value collaborative enhancement and invite developers to join this open-source initiative to make driving safer.
 
-What's great about this project is that it's focused on a specific problem - improving seatbelt usage - and provides a range of tools to tackle that problem. It also uses the YOLOv8 object detection algorithm, which is known for its accuracy and speed.
+Get Involved
+Join us in pushing the boundaries of driver safety technology. Your expertise can help in further refining this life-saving system.
 
-As someone who's interested in using technology to make driving safer, I find this project to be an inspiring example of what's possible with computer vision and machine learning. If you're curious about how these technologies can be applied to driver safety, or want to get involved in an exciting open-source project
+For a detailed explanation of the modules and setup, refer to the documentation within the project repository.
