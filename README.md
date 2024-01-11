@@ -8,6 +8,8 @@ Welcome to the AI Driver Safety System, an open-source initiative harnessing the
   
 - #### Road Awareness:
   Implements Hough transform for precise line detection and robust stop sign recognition.
+  ![Image](https://github.com/rania-hossam/AI_Driver_safety_System-/blob/main/gifs/road_awarness.mp4)
+
 - ### Posture Correction:
   Features an advanced posture analysis module to encourage optimal driving posture.
 - ### Seatbelt Adherence:
