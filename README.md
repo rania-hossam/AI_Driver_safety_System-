@@ -22,7 +22,7 @@ focusing on the detection and analysis of a driver's behavior. It employs MediaP
 
 - ### Seatbelt Adherence:
   A dedicated module focused on promoting seatbelt use with timely alerts.
-![Image](https://github.com/rania-hossam/AI_Driver_safety_System-/blob/main/gifs/drowness.mp4)
+![Image](https://github.com/rania-hossam/AI_Driver_safety_System-/blob/main/gifs/seatbelt.mp4)
 
 - ### Proximity Sensing:
   Integrates ToF sensors to alert drivers about the proximity of objects , the sensors will be installed in multiple points in the car
