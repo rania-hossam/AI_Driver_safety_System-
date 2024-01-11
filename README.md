@@ -23,7 +23,8 @@ focusing on the detection and analysis of a driver's behavior. It employs MediaP
 
 - ### Seatbelt Adherence:
 monitoring a driver's hand position on the steering wheel. The alert system, which is triggered when the hands are not detected on the wheel, demonstrates a practical use case in driver safety systems.![Image](https://github.com/rania-hossam/AI_Driver_safety_System-/blob/main/gifs/seatbelt.mp4)
-
+- ### Drowness Dtetction:
+![Image](https://github.com/rania-hossam/AI_Driver_safety_System-/blob/main/gifs/Drowness_detection.gif)
 - ### Proximity Sensing:
   Integrates ToF sensors to alert drivers about the proximity of objects , the sensors will be installed in multiple points in the car
   allowing them to almost sense for any object coming close to the car , and alerting the driver in various ways allowing him to do stuff like parking more effectively ,
