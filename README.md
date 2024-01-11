@@ -64,6 +64,13 @@ To safeguard drivers from potential animal-related accidents, our system employs
 - **Script**: `Animal_detection.py` - Experience real-time animal detection.
 - **Visuals**: See our system in action with sample images and videos.
 
+- Crack detection
+In this project we aim to protect driver from crack in the by alerting him .
+we use yolo v8 on our custom data to detect crack at the road
+Crack_detection.pt this is our model you can use it in your data
+Crack_detection.py this is areal time Crack detection Image 1 Image 2
+
+
 ### 🔍 Vigilant Monitoring
 Our system uses sophisticated machine learning algorithms for real-time head and body detection, ensuring driver attentiveness at all times.
 - **Demo**: [Watch how our system detects drowsiness](https://github.com/rania-hossam/AI_Driver_safety_System-/blob/main/gifs/drowness.mp4).
