@@ -3,6 +3,12 @@
 Welcome to the AI Driver Safety System, an open-source initiative harnessing the power of computer vision and machine learning to revolutionize road safety.
 
 # Key Features
+Animal detection
+In this project we aim to protect driver from animals that face him at the road by alerting him .
+we use yolo v8 on our custom data to detect animals
+Animal_detection.pt this is our model you can use it in your data
+Animal_detection.py this is areal time animal detection Image 1 Image 2
+
 - #### Vigilant Monitoring:
   Utilizes machine learning for head and body detection to ensure driver attentiveness.
   ![Image](https://github.com/rania-hossam/AI_Driver_safety_System-/blob/main/gifs/drowness.mp4)
