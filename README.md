@@ -12,7 +12,7 @@ Welcome to the AI Driver Safety System, an open-source initiative harnessing the
   Features an advanced posture analysis module to encourage optimal driving posture.
 - ### Seatbelt Adherence:
   A dedicated module focused on promoting seatbelt use with timely alerts.
-[Seatbelt Adherence](https://github.com/rania-hossam/AI_Driver_safety_System-/blob/main/gifs/HnVideoEditor_2024_01_09_150958579.mp4)
+![Seatbelt Adherence](https://github.com/rania-hossam/AI_Driver_safety_System-/blob/main/gifs/HnVideoEditor_2024_01_09_150958579.mp4)
 
 - ### Proximity Sensing:
   Integrates ToF sensors to alert drivers about the proximity of objects , the sensors will be installed in multiple points in the car
