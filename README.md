@@ -18,8 +18,7 @@ Animal_detection.py this is areal time animal detection Image 1 Image 2
   ![Image](https://github.com/rania-hossam/AI_Driver_safety_System-/blob/main/gifs/road_awarness.mp4)
 
 - ### Posture Correction:
-  Features an advanced posture analysis module to encourage optimal driving posture.
-  ![Image](https://github.com/rania-hossam/AI_Driver_safety_System-/blob/main/gifs/drowness.mp4)
+focusing on the detection and analysis of a driver's behavior. It employs MediaPipe's holistic model for detecting facial landmarks, hand positions, and body posture. The script includes functions to check if the driver is looking at the road, holding the steering wheel correctly, and maintaining proper posture. Visual feedback is provided in real-time by drawing landmarks on the video feed and overlaying text messages indicating the driver's state (e.g., looking at the road, holding the steering wheel properly). The script runs continuously until 'q' is pressed to exit  ![Image](https://github.com/rania-hossam/AI_Driver_safety_System-/blob/main/gifs/drowness.mp4)
 
 - ### Seatbelt Adherence:
   A dedicated module focused on promoting seatbelt use with timely alerts.
