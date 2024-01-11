@@ -14,7 +14,7 @@ Animal_detection.py this is areal time animal detection Image 1 Image 2
   ![Image](https://github.com/rania-hossam/AI_Driver_safety_System-/blob/main/gifs/drowness.mp4)
 
 - #### Road Awareness:
-  Implements Hough transform for precise line detection and robust stop sign recognition.
+- emonstrates how to detect straight lines in an image using the Hough Transform in OpenCV. It reads an image, processes it to detect edges, and then applies the Hough Line Transform to find and draw lines on the original image.
   ![Image](https://github.com/rania-hossam/AI_Driver_safety_System-/blob/main/gifs/road_awarness.mp4)
 
 - ### Posture Correction:
